@@ -9,4 +9,5 @@ coins["silver dollar"] = 5
 
 coins.pop("pennies")
 
-print(
+print(coins)
+print(len(coins))
